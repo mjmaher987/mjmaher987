@@ -24,7 +24,7 @@
 <div align="center">
 
         <a href="mjmaher987@gmail.com">
-<!--             <img src="telegram.png"> -->
+            <img src="(https://cdn-icons-png.flaticon.com/512/281/281769.png)">
 </div>
 
 <p align=center>
