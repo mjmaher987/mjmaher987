@@ -20,12 +20,12 @@
 ## Contact Me
 
 <!-- Feel free contacting me via the following links: -->
-<!-- 
+<!--  -->
 <div align="center">
 
-        <a href="https://t.me/SMSadegh19">
-            <img src="telegram.png">
-</div> -->
+        <a href="mjmaher987@gmail.com">
+<!--             <img src="telegram.png"> -->
+</div>
 
 <p align=center>
 <br>
