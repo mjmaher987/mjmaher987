@@ -23,7 +23,7 @@
 <!--  -->
 <div align="center">
         <a href="mjmaher987@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" scale = 0.1>
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" scale = 0.01>
 
 </div>
 
