@@ -12,7 +12,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjmaher987&hide_border=true" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjmaher987&hide_border=true" scale = 0.1/>
         </td>
     </tr>
 </table>
