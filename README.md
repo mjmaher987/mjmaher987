@@ -1,7 +1,7 @@
 # README.md
 ## Hi! This is MJ Maheronnaghsh!
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="1">
     <tr>
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjmaher987&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
