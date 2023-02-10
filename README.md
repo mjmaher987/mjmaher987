@@ -21,11 +21,11 @@
 
 Feel free contacting me at mjmaher987@gmail.com or m.j.maheronnaghsh@gmail.com
 <!--  -->
-<div align="center">
+<!-- <div align="center">
         <a href="mjmaher987@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width= 3% height= auto>
 
-</div>
+</div> -->
 
     
 <p align=center>
