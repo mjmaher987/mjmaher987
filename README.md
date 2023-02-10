@@ -19,7 +19,7 @@
 
 ## Contact Me
 
-<!-- Feel free contacting me via the following links: -->
+Feel free contacting me at mjmaher987@gmail.com or m.j.maheronnaghsh@gmail.com
 <!--  -->
 <div align="center">
         <a href="mjmaher987@gmail.com">
