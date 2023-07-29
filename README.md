@@ -23,7 +23,7 @@ I am interested in *machine learning, artificial intelligence, embedded systems*
 ## Contact Me
 
 
-Feel free contacting me at m.j.maheronnaghsh@gmail.com or mjmaher987@gmail.com
+Feel free contacting me at m.j.maheronnaghsh@gmail.com / mjmaher987@gmail.com / maheronnaghsh@ce.sharif.edu
 <!--  -->
 <!-- <div align="center">
         <a href="mjmaher987@gmail.com">
@@ -31,11 +31,13 @@ Feel free contacting me at m.j.maheronnaghsh@gmail.com or mjmaher987@gmail.com
 
 </div> -->
 
-    
+<!--   
 <p align=center>
 <br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=mjmaher987/mjmaher987">
 </p>
+-->
+
 
 
 
