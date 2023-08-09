@@ -15,7 +15,7 @@ I am interested in *machine learning, artificial intelligence, deep learning, em
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjmaher987&hide_border=true" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjmaher98&hide_border=true" />
         </td>
     </tr>
 </table>
