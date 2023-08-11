@@ -4,21 +4,29 @@ I am a computer engineering student at Sharif University of Technology.
 I am interested in *machine learning, artificial intelligence, deep learning, embedded systems*, and the intersections of these fields.
 
 
-<table border="0" cellspacing="0" cellpadding="0">
+
+<table border="0" cellspacing="0" cellpadding="0" align = "center">
     <tr>
-        <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjmaher987&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjmaher987&hide_border=true&layout=compact&langs_count=10&theme="cobalt""/>
+        <td colspan=2 align = "center">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjmaher987&theme=radical" />
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjmaher987&hide_border=true" />
+        <td align = "center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjmaher987&hide_border=true&layout=compact&langs_count=10&theme=radical"/>
+        </td>
+        <td align = "center">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjmaher987&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
         </td>
     </tr>
+    <tr>
+        <td colspan=2 align = "center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjmaher987&hide_border=true&theme=radical" />
+        </td> 
+    </tr>
+    
 </table>
+
 
 ## Contact Me
 
