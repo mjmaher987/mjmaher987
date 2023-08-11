@@ -8,8 +8,8 @@ I am interested in *machine learning, artificial intelligence, deep learning, em
 <table border="0" cellspacing="0" cellpadding="0" align = "center">
     <tr>
         <td colspan=2 align = "center">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjmaher987&theme=radical" />
-        </td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjmaher987&hide_border=true&theme=radical" />
+        </td> 
     </tr>
     <tr>
         <td align = "center">
@@ -21,8 +21,8 @@ I am interested in *machine learning, artificial intelligence, deep learning, em
     </tr>
     <tr>
         <td colspan=2 align = "center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjmaher987&hide_border=true&theme=radical" />
-        </td> 
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjmaher987&theme=radical" />
+        </td>
     </tr>
     
 </table>
