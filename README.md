@@ -31,7 +31,7 @@ I am interested in *machine learning, artificial intelligence, deep learning, em
 ## Contact Me
 
 
-Feel free contacting me at m.j.maheronnaghsh@gmail.com / mjmaher987@gmail.com / maheronnaghsh@ce.sharif.edu
+Feel free contacting me at m.j.maheronnaghsh@gmail.com / maheronnaghsh@ce.sharif.edu / mjmaher987@gmail.com
 <!--  -->
 <!-- <div align="center">
         <a href="mjmaher987@gmail.com">
