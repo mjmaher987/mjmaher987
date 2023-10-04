@@ -3,7 +3,6 @@
 I am a computer engineering student at Sharif University of Technology.
 I am interested in *machine learning, artificial intelligence, and deep learning*, and the intersections of these fields.
 
-
 <table border="0" cellspacing="0" cellpadding="0" align = "center">
     <tr>
         <td colspan=2 align = "center">
