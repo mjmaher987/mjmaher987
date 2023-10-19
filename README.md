@@ -1,7 +1,7 @@
 # README.md
 ## Hi! This is MJ Maheronnaghsh!
 I am a computer engineering student at Sharif University of Technology.
-I am interested in *machine learning, artificial intelligence, and deep learning*, and the intersections of these fields.
+I am interested in *machine learning, artificial intelligence, and deep learning*, and their applications in other fields or **interdisciplinaries**.
 
 <table border="0" cellspacing="0" cellpadding="0" align = "center">
     <tr>
