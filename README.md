@@ -33,19 +33,6 @@ I am interested in *machine learning, artificial intelligence, and deep learning
 ## Contact Me
 
 Feel free contacting me at m.j.maheronnaghsh@gmail.com / maheronnaghsh@ce.sharif.edu / mjmaher987@gmail.com
-<!--  -->
-<!-- <div align="center">
-        <a href="mjmaher987@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width= 3% height= auto>
-
-</div> -->
-
-<!--   
-<p align=center>
-<br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=mjmaher987/mjmaher987">
-</p>
--->
 
 
 
