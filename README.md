@@ -1,6 +1,6 @@
 # README.md
 ## Hi! This is MJ Maheronnaghsh!
-I am a computer engineering student at Sharif University of Technology.
+I am a computer engineering student at University of Toronto.
 I am interested in *machine learning, artificial intelligence, and deep learning*, and their applications in other fields or **interdisciplinaries**.
 
 
@@ -32,7 +32,7 @@ I am interested in *machine learning, artificial intelligence, and deep learning
 
 ## Contact Me
 
-Feel free contacting me at m.j.maheronnaghsh@gmail.com / maheronnaghsh@ce.sharif.edu / mjmaher987@gmail.com
+Feel free contacting me at m.j.maheronnaghsh@gmail.com / mjmaher987@gmail.com
 
 
 
