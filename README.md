@@ -23,7 +23,7 @@ I am interested in *machine learning, artificial intelligence, and deep learning
 
 ## Contact Me
 
-Feel free contacting me at m.j.maheronnaghsh@gmail.com / mjmaher987@gmail.com
+Feel free contacting me at m.j.maheronnaghsh@gmail.com
 
 
 
