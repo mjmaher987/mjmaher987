@@ -23,8 +23,8 @@ I enjoy building systems that connect research ideas to practical applications, 
 ## Contact
 - Email: m.j.maheronnaghsh@gmail.com
 - Website: https://mjmaher987.github.io
-- LinkedIn: linkedin.com/in/mj-maheronnaghsh
-- Google Scholar: scholar.google.ca/citations?user=imjOYOkAAAAJ&hl=en
+- LinkedIn: https://linkedin.com/in/mj-maheronnaghsh
+- Google Scholar: https://scholar.google.ca/citations?user=imjOYOkAAAAJ&hl=en
 
   
 <table border="0" cellspacing="0" cellpadding="0" align = "center">
