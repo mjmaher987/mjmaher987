@@ -1,6 +1,6 @@
 # Hi, I’m Mohammadjavad Maheronnaghsh 👋
 
-I’m an ML Engineer and M.A.Sc. student at the University of Toronto, focused on efficient machine learning, computer vision, and agentic AI.
+I’m an AI Engineer @ **ArcTrade** and M.A.Sc. student at the **University of Toronto**, focused on efficient machine learning, computer vision, and agentic AI.
 
 I enjoy building systems that connect research ideas to practical applications, especially in:
 - Machine Learning & Deep Learning
